@@ -1,0 +1,11 @@
+/.vs/
+/DVG.Chat.Supporter.WebApp/obj/
+/DVG.Chat.Supporter.WebApp/bin/
+/DVG.Chat.Supporter.WebApp/node_modules/
+**/obj/
+**/bin/
+**/obj/
+**/obj/
+**/node_modules/
+/.gitlab-ci.yml
+/.gitlab-ci.yml
